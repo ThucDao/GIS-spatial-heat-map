@@ -22,4 +22,4 @@ I used the IDW method to create this snow depth map in ArcGIS Pro, a desktop GIS
 
 As you can see, we don’t have a problem with color here because I used a sequential palette, not a diverging palette as in my cluster heat map of Sudbury’s temperature (the link in the beginning of this post).
 
-![](SudburySnow/Snow depth in January in Greater Sudbury, made by Thuc Dao.png)
+![](SudburySnow/Snow%20depth%20in%20January%20in%20Greater%20Sudbury,%20made%20by%20ThucDao.png)
